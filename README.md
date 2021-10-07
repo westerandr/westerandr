@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andre Westerlund</h1>
-<h3 align="center">A passionate fullstack developer from Samoa</h3>
+<h1 align="left">Hi 👋, I'm Andre Westerlund</h1>
+<h3 align="left">A passionate fullstack developer from Samoa</h3>
 
 - 🌱 I’m currently learning **nestjs and nextjs**
 
