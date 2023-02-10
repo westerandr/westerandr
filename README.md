@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Vodafone Samoa's internal web applications.<br>👯 I'm looking to collaborate on open source projects that make a positive impact.<br>🤝 I'm looking for help with software architectural design and project management skills.<br>🌱 I'm currently learning Python Flask, React Native, VIM, GitHub Actions, and CI/CD pipelines.<br>💬 Ask me about NodeJs, React, MongoDB, MySQL and Solidity<br>⚡️ Fun fact about me; well, send me an email and you'll find out!
+🔭 I'm currently working on Cloud pages for SLEEQ NZ.<br>👯 I'm looking to collaborate on open source projects that make a positive impact.<br>🤝 I'm looking for help with software architectural design and project management skills.<br>🌱 I'm currently learning Python Flask, React Native, VIM, GitHub Actions, and CI/CD pipelines.<br>💬 Ask me about NodeJs, React, MongoDB, MySQL and Solidity<br>⚡️ Fun fact about me; well, send me an email and you'll find out!
 
 
 ## 🌐 Socials:
