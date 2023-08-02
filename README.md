@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a Marketing Cloud Developer for SLEEQ NZ.<br>🌱 I'm currently learning Vue, Laravel, Astro and NextJS 13.
+🔭 I'm currently working as a Salesforce Marketing Cloud Developer for SLEEQ NZ.<br>🌱 I'm currently learning Vue, Laravel, Astro and NextJS 13.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrewesterlund/) 
