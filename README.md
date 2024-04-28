@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as a Full Stack Developer for Te Hiku Media.<br>🌱 I'm currently learning Vue, Django, Kubernetes and Terraform.
+🔭 I'm currently working as a Full Stack Developer for Te Hiku Media.<br>💻 Founder of [Samoa Code Hub](https://www.samoacodehub.org)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrewesterlund/) 
